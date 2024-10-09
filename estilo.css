@@ -1,0 +1,43 @@
+.fondo1{
+    background: rgb(255,249,45);
+background: linear-gradient(90deg, rgba(255,249,45,1) 0%, rgba(236,84,186,1) 50%, rgba(255,187,39,1) 100%);
+}
+
+.centrado{
+    text-align: center;
+    padding-left: 1px;
+    padding-right: 1px;
+    font-family: sans-serif;
+}
+
+.fondo2{
+    background: rgb(128,0,255);
+background: linear-gradient(90deg, rgba(128,0,255,1) 0%, rgba(151,9,244,1) 25%, rgba(111,0,255,1) 50%, rgba(2,122,255,1) 75%, rgba(0,18,255,1) 100%);
+}
+
+.texto{
+    text-align: center;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-size: x-large;
+    color: rgb(255, 255, 255);
+}
+
+.texto2{
+    text-align: center;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: larger;
+    color: lavender;
+}
+
+.ancla1{
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-size: medium;
+    text-align: right;
+}
+
+.ancla2{
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-size: medium;
+    text-align: left;
+    color: white;
+}
